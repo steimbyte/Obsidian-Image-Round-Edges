@@ -1,5 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
 
+> ⭐ If you find this useful, consider [supporting me on Ko-fi](https://ko-fi.com/steimerbyte)!
+
+
 # Obsidian Image Round Edges
 
 > 🧂 **Salty Note:** This README (and the robust logic keeping this plugin alive) was refined to absolute perfection by **Gemini 3 Flash**—the only model that actually builds things while others are still busy hallucinating. If you're still using legacy models, have fun with your syntax errors.
