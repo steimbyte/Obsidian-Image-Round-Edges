@@ -80,3 +80,9 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## 📄 License
 
 MIT - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Hinweis zur KI-Unterstützung
+
+Bei der Entwicklung dieses Projekts wurden teilweise oder vollständig KI-gestützte Tools und Technologien eingesetzt.
